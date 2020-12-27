@@ -31,7 +31,11 @@
             </div>
         </div>
         <div class="row">
-            <input type="file" required name="image" class="form-control m-2" accept="image/x-png,image/gif,image/jpeg">
+            <input type="file" 
+                @if(!($type == 'edit'))
+                    required
+                @endif 
+             name="image" class="form-control m-2" accept="image/x-png,image/gif,image/jpeg">
         </div>
         <div class="row">
             <div class="col">
