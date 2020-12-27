@@ -2,30 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795ccc52-7804-4235-a627-2dd9a4270082" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/blog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/post.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/template/base.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9b6b653d-1be4-422f-8692-2172c6dda45b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9b6b653d-1be4-422f-8692-2172c6dda45b.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/018bb643b0b617bc59412980ced80a3d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/05d1b1a4016abace55d460c6d6204c7f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/0c7cb0eb9f7e962e734a46d76b01dff0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/12eb1547587ca484f807cdd73d418a95.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/184aa02c13fe579fe726cdc6240904cd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/188a0963ce7a05e0d6f4793abd09a5ab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/1b7b072685d19496ecb0ec19d4bb0e0c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/2015955b58931a823c6899344d7dc194.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/272ac59b8d09a822f6bbec56fa59afb2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/281b3de6b18c7306c7351eeff5a796da.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/2d905617d217a8bdbc9d78b0faefc4f3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/314de1d9d47594f6b734a5341dc73809.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/34816ee843737dded149f37804216d34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/34a2a33e945a6d37ff4784a683815a74.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/357fe5a6276a768d2ba28ae16440a888.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/3704a6007c1b064e843a46400e6de08e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/4086623c9f42f24187df38a17e3f008e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/48605079c1f266f1f28d82d6570f707c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/4f8ae722db6611f93e4474883a0d2937.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/50f400b96d3f3b9b02a8bc3edc413ac4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/51940ae3b3665f7a7e2cfb4f06c435fc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/52cab9760ca36669012e6b2e09c81e6a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/5b4f6860ce4bd756dd8c82515ddfdec2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/61450594a102aad3b4ac603f448460a2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/642ce7fc582a387c6e0120815113a99d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/642f9d26c6cf1ffd54e03bc86a5b40b7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/64d5a4b61c441e1feee9fbfb08280774.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/6c8939c00186315f46eab14d0ecd9031.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/7c32044fd71f81042bc5a92d8bb092fa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/7d6eaea1f250911284415fc8cc861f84.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/7d80da56c0ae5c5b90068e270dc74de1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/7dcc7a7d7311bc4827fbe0841c06b16a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/8427f4555df766306fe538a1b5dbc054.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/905e22f120addaf1e655a71cf825d7e8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/92c438c573095de4008fde95b99f1346.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/933c8a3b2ae90101a7fb0d258fe97885.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/980a0a894849f3e8356e04cfbd3dada5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/9e96654ea6bf1f6b0bf66ec51370a5ad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/a2926a431d9d3e8ed82768bb871ffba7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/a2c5cf600eb8e6910a60e53901d618ae.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/a32df5e3ce16b367862c23d7393275b1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/a65952480efb80222368528f16c6e936.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/aa3d5b43795b028cd5e804fcbeddee6d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/aa926786755d41d40c592a5184987bb9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/ad6d4038593c76e13ac70790aabfe0f6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/b0dd5c6cd2fbf58684818d1916194f1c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/b5a7c2bfcb43771c4958698263279b56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/c74135f94002c8bad20eea544a51dcee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/c8402b66de3c278e0f6e98fa7fb934b0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/cd11937e69d966213704dec2f6a2efd0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/cf59b3459f091bd46e98c39039edd8d2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/d4034772920fb25df7ea4d4f7ab8909b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/d648e8b0c602e4720adfc26035ec3ace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/e7911303397fe5b04350a7945b5870f4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/e9083cc7ac3415068076bd9bfd03ff0f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/ee3b7cd4a107425d04c31e62e65de2e8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/f2106e136c1c3b64a25559f5e9634f23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/f436e14a15f0ed68403bf642d92cdfb1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/f713f23005ab96f392d1aec28b5d2192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post_images/fc5535063bac35a46531d42cbdc3a5e3.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,6 +257,7 @@
       <workItem from="1608830718496" duration="10033000" />
       <workItem from="1608913720604" duration="8806000" />
       <workItem from="1609097224858" duration="5477000" />
+      <workItem from="1609103845945" duration="363000" />
     </task>
     <servers />
   </component>
